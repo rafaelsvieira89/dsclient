@@ -1,0 +1,2 @@
+package com.vieira.dsclient.config;public class SwaggerConfig {
+}
